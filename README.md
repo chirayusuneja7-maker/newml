@@ -1,2 +1,3 @@
 # newml
-this is my first repe
+this is my first repository.
+author-chirayu suenja
